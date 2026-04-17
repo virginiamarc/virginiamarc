@@ -4,8 +4,8 @@ Hi! I’m Virginia Marc, a passionate **full‑stack web developer** who enjoys 
 
 I work across modern JavaScript, clean UI patterns, and backend APIs — with an emphasis on maintainable code and real‑world problem solving.
 
-## Portfolio
-🔗[Check out my portfolio] (https://sites.google.com/view/virginia-marc/home)
+### Portfolio
+[Check out my portfolio →](https://sites.google.com/view/virginia-marc/home)
 
 ---
 
