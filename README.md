@@ -1,4 +1,4 @@
-# Hi, I’m Virginia 👋
+# Virginia Marc
 
 I’m a **full‑stack web developer** who enjoys building scalable, user‑focused applications from frontend to backend.
 
